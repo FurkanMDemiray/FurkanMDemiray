@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan Melik Demiray</h1>
-<h3 align="center">An engineer student from Turkey</h3>
+<h3 align="center">An computer engineer student from Turkey</h3>
 
 - 📫 How to reach me **furkanmdemiray@gmail.com**
 
