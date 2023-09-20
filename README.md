@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SeraGaziTakibi](https://www.seragazitakibi.com/)
 
-- 🌱 I’m currently learning **Android Development Java/Kotlin**
+- 🌱 I’m currently learning **IOS Development/Swift**
 
 - 📫 How to reach me **furkanmdemiray@gmail.com**
 
