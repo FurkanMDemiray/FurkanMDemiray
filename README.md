@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Furkan Melik Demiray</h1>
 <h3 align="center">An Computer Engineer student from Turkey</h3>
