@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Furkan Melik Demiray</h1>
 <h3 align="center">An Computer Engineer student from Turkey</h3>
 
-🔭 I’m currently working on [SeraGaziTakibi](https://www.seragazitakibi.com/)<br><br>🌱 I’m currently learning IOS Development/Swift<br><br>
+🔭 🌱 I’m currently learning IOS Development/Swift<br><br>
+🔭 🌱 I’m currently making IOS Apps<br><br>
 
 
 ## 🌐 Socials:
