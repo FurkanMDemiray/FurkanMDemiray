@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Furkan Melik Demiray</h1>
-<h3 align="center">An iOS Developer from Turkey</h3>
+<h3 align="center">An iOS/Game Developer from Turkey</h3>
 
 🔭 🌱 I’m currently learning IOS Development/Swift<br><br>
 🔭 🌱 I’m currently making IOS Apps<br><br>
